@@ -1,4 +1,3 @@
-# AZ900_Prep
 
 # AZ-900: Microsoft Azure Fundamentals - Exam Preparation
 
